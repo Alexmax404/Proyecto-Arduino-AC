@@ -3,6 +3,6 @@ Software / Maquina de estados
 
 Glenn Alexander Ward 
 
-Juan Camilo Benabidez 
+Juan Camilo Benavidez 
 
 Jose Alejandro Rodriguez
